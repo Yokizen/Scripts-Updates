@@ -1,0 +1,2 @@
+Added Check Update Function.
+Added Changelog Function.
