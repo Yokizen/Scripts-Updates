@@ -1,1 +1,0 @@
--Added Check Update Function/n-Added Changelog Function
